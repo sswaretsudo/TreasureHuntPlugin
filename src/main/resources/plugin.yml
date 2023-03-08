@@ -1,0 +1,8 @@
+name: TreasureHunt
+version: 1.01
+main: jp.norvell.treasurehunt.TreasureHunt
+api-version: 1.19
+
+commands:
+  treasurehunt:
+    usage: start , end
