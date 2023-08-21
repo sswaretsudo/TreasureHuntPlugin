@@ -24,11 +24,6 @@
 
 - ```/treasurehunt show```
 
-    ゲームの得点の対象として追加されたアイテムを表示するコマンド
-
-### 提案
-[むゲロ](https://twitter.com/mugero_914)
-### 開発
-[のーべる](https://twitter.com/n0rv3ll)
+    ゲームの得点の対象として追加されたアイテムを表示する
 ### 対象
 Minecraft Java Edition 1.19.3
